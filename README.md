@@ -1,2 +1,2 @@
 # Electroptical-Engineering-Problems
-Problems completed in MatLab and Code V for EP320 Exam
+Problems completed in MatLab for EP320 Exam
